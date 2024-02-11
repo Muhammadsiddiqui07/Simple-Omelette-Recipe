@@ -1,0 +1,64 @@
+.imgContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.imgContainer img {
+    width: 90%;
+}
+
+.header {
+    padding: 20px;
+}
+
+.header>h1 {
+    font-size: 50px;
+}
+
+.header>p {
+    font-size: 30px;
+}
+
+.PreparationContainer {
+    background-color: #d4b5f1;
+    padding: 10px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+.PreparationContainer>ul>li {
+    padding: 10px;
+}
+
+.ingContainer {
+    padding: 20px;
+    font-size: 25px;
+}
+
+.ingContainer>ul>li {
+    padding: 10px;
+}
+
+.instucContainer {
+    padding: 20px;
+    font-size: 25px;
+}
+
+.instucContainer>p {
+    padding: 10px;
+}
+
+.nutContainer{
+    padding: 20px;
+    font-size: 25px;
+}
+
+.nut{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+    margin: 0 auto;
+}
